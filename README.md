@@ -1,7 +1,7 @@
 # Learn-ReactJS
 Self ReactJS practice
 
-## Componenets
+## Components
 React component == TS function -> returns JSX
 - Button
 - Form
